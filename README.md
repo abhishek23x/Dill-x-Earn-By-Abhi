@@ -25,13 +25,19 @@ cd dill
 ```
 **COPY KEY**
 ```
-cd /root/dill/validator_keys
+cd dill
+```
+```
+ls
+```
+```
+./dill-node
+```
+```
+cd validator_keys
 ```
 
-```
-Is /root/dill/validator_keys
 
-```
 STAKE : https://staking.dill.xyz/en/
 
 CHECK : https://alps.dill.xyz/validators
