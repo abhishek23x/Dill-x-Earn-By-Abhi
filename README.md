@@ -23,6 +23,11 @@ node running, congratulations 😄
 ./show_pubkey.sh
 
 ```
+**COPY KEY**
+```
+Is /root/dill/validator_keys
+
+```
 STAKE : https://staking.dill.xyz/en/
 
 CHECK : https://alps.dill.xyz/validators
