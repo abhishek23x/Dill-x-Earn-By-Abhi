@@ -24,6 +24,9 @@ cd dill
 
 ```
 **COPY KEY**
+```
+cd /root/dill/validator_keys
+```
 
 ```
 Is /root/dill/validator_keys
