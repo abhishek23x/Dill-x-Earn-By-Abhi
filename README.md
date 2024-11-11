@@ -1,11 +1,5 @@
 # Dill-x-Earn-By-Abhi
 
-💵**BEFORE WE START**
-
-👉🏻**Join Our Telegram:** https://t.me/EarnByAbhi23
-
-👉🏻**Follow Our Twitter:** https://x.com/EarnByAbhi
-
 **0. For WL , Watch this video** 👇🏻
 
 https://youtu.be/2gk_uM4_BY8
@@ -77,5 +71,10 @@ cat ./validator_keys/deposit_data-xxx.json
 
 **7.CHECK** : https://alps.dill.xyz/validators
 
+💵**At the end**
+
+👉🏻**Join Our Telegram:** https://t.me/EarnByAbhi23
+
+👉🏻**Follow Our Twitter:** https://x.com/EarnByAbhi
 
 
