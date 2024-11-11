@@ -18,7 +18,7 @@ Currency - Symbol	DILL
 
 Explorer -	https://alps.dill.xyz
 
-**Use Command:**
+**2. Use Command:**
 ```
 curl -sO https://raw.githubusercontent.com/DillLabs/launch-dill-node/main/dill.sh && chmod +x dill.sh && ./dill.sh
 
@@ -30,14 +30,14 @@ Checking if the node is up and running...
 node running, congratulations 😄
 
 ```
-**Check Node Status**
+**3. Check Node Status**
 
 ```
 cd dill
 ./health_check.sh -v
 ```
 
-**COPY KEY**
+**4. COPY KEY**
 
 ```
 ls
@@ -64,19 +64,14 @@ cat ./validator_keys/deposit_data-xxx.json
 ```
 
 
-**Check Node Public Key**
+**5. Check Node Public Key**
 ```
 ./show_pubkey.sh
 
 ```
-STAKE : https://staking.dill.xyz/en/
+**6. STAKE** : https://staking.dill.xyz/en/
 
-CHECK : https://alps.dill.xyz/validators
+**7.CHECK** : https://alps.dill.xyz/validators
 
-**Start the Node**
-```
-./start_dill_node.sh
-
-```
 
 
