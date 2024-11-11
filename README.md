@@ -12,17 +12,7 @@ Checking if the node is up and running...
 node running, congratulations 😄
 
 ```
-**Check Node Status**
 
-```
-cd dill
-./health_check.sh -v
-```
-**Check Node Public Key**
-```
-./show_pubkey.sh
-
-```
 **COPY KEY**
 ```
 cd dill
@@ -37,7 +27,17 @@ ls
 cd validator_keys
 ```
 
+**Check Node Status**
 
+```
+cd dill
+./health_check.sh -v
+```
+**Check Node Public Key**
+```
+./show_pubkey.sh
+
+```
 STAKE : https://staking.dill.xyz/en/
 
 CHECK : https://alps.dill.xyz/validators
