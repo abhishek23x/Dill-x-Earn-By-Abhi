@@ -1,5 +1,11 @@
 # Dill-x-Earn-By-Abhi
 
+**BEFORE WE START**
+
+👉🏻**Join Our Telegram:** https://t.me/EarnByAbhi23
+
+👉🏻**Follow Our Twitter:** https://x.com/EarnByAbhi
+
 **ADD NETWORK**
 
 Name - DIll TESTNET
@@ -73,6 +79,4 @@ CHECK : https://alps.dill.xyz/validators
 
 ```
 
-👉🏻**Join Our Telegram:** https://t.me/EarnByAbhi23
 
-👉🏻**Follow Our Twitter:** https://x.com/EarnByAbhi
