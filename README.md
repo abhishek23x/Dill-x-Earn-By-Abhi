@@ -29,6 +29,9 @@ cd validator_keys
 ```
 ls
 ```
+```
+cat ./validator_keys/deposit_data-xxx.json
+```
 
 **Check Node Status**
 
