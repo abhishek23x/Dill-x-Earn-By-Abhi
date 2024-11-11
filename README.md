@@ -3,9 +3,13 @@
 **ADD NETWORK**
 
 Name - DIll TESTNET
+
 RPC URL -	https://rpc-alps.dill.xyz
+
 Chain ID - 102125
+
 Currency - Symbol	DILL
+
 Explorer -	https://alps.dill.xyz
 
 **Use Command:**
