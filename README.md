@@ -1,12 +1,5 @@
 # Dill-x-Earn-By-Abhi
 
-**ADD TESTNET NETWORK**
-
-RPC URL	- https://rpc-alps.dill.xyz
-Chain ID - 102125
-Currency - Symbol	DILL
-Explorer -	https://alps.dill.xyz
-
 **Use Command:**
 ```
 curl -sO https://raw.githubusercontent.com/DillLabs/launch-dill-node/main/dill.sh && chmod +x dill.sh && ./dill.sh
