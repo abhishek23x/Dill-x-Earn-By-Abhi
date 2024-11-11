@@ -23,6 +23,8 @@ node running, congratulations 😄
 ./show_pubkey.sh
 
 ```
+STAKE : https://staking.dill.xyz/en/
+
 **Start the Node**
 ```
 ./start_dill_node.sh
