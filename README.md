@@ -15,8 +15,8 @@ node running, congratulations 😄
 **Check Node Status**
 
 ```
+cd dill
 ./health_check.sh -v
-
 ```
 **Check Node Public Key**
 ```
