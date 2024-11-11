@@ -26,6 +26,9 @@ ls
 ```
 cd validator_keys
 ```
+```
+ls
+```
 
 **Check Node Status**
 
