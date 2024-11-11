@@ -12,11 +12,15 @@ Checking if the node is up and running...
 node running, congratulations 😄
 
 ```
+**Check Node Status**
 
-**COPY KEY**
 ```
 cd dill
+./health_check.sh -v
 ```
+
+**COPY KEY**
+
 ```
 ls
 ```
@@ -30,15 +34,13 @@ cd validator_keys
 ls
 ```
 ```
+cd dill
+```
+```
 cat ./validator_keys/deposit_data-xxx.json
 ```
 
-**Check Node Status**
 
-```
-cd dill
-./health_check.sh -v
-```
 **Check Node Public Key**
 ```
 ./show_pubkey.sh
