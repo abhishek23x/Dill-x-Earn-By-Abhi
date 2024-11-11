@@ -25,6 +25,8 @@ node running, congratulations 😄
 ```
 STAKE : https://staking.dill.xyz/en/
 
+CHECK : https://alps.dill.xyz/validators
+
 **Start the Node**
 ```
 ./start_dill_node.sh
