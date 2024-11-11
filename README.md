@@ -6,6 +6,10 @@
 
 👉🏻**Follow Our Twitter:** https://x.com/EarnByAbhi
 
+**0. For WL , Watch this video** 👇🏻
+
+https://youtu.be/2gk_uM4_BY8
+
 **1. ADD NETWORK**
 
 Name - DIll TESTNET
