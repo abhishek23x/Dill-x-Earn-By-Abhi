@@ -34,8 +34,13 @@ cd validator_keys
 ls
 ```
 ```
+cd
+```
+```
 cd dill
 ```
+
+REPLACE xxx :-
 ```
 cat ./validator_keys/deposit_data-xxx.json
 ```
